@@ -4,7 +4,7 @@ import logging
 from telethon import TelegramClient, events
 from telethon.sessions import StringSession
 from telethon.network.connection.tcpabridged import ConnectionTcpAbridged
-from pytgcalls import GroupCallFactory  # ✅ Correct import
+from pytgcalls import PyTgCalls  
 
 from Config import Config
 
