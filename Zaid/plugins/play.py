@@ -1,6 +1,6 @@
 from pytgcalls.types import StreamEnded
 from pytgcalls.types import Update
-from py_tgcalls.stream import AudioPiped, AudioVideoPiped
+from pytgcalls.stream import AudioPiped, AudioVideoPiped
 from pytgcalls.types.input_stream.quality import (
     HighQualityAudio,
     HighQualityVideo,
