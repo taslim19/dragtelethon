@@ -1,4 +1,4 @@
-from pytgcalls.types import StreamType  # Corrected import path for StreamType
+from pytgcalls.types import StreamEnded
 from pytgcalls.types import Update
 from pytgcalls.types.input_stream import AudioPiped, AudioVideoPiped
 from pytgcalls.types.input_stream.quality import (
